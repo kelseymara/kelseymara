@@ -9,17 +9,20 @@
 ---
 <details>
     
-  <summary>🛠️ Click to expand and view technologies I’ve worked with</summary>
+  <summary>🛠️ Click to expand and view my skills</summary>
 
 
 
 ### 🖥️ Programming Languages
-C++, Java, JavaScript, TypeScript, Python
+C#, C++, Java, JavaScript, TypeScript, Python
 
 ### ⚙️ Frameworks & Libraries
-React, Angular, Django, Spring Boot, Node.js, Express.js
+React, Angular, Django, Spring Boot, Node.js, Express.js, ASP.NET Core
 
 ### 💾 Databases
 MongoDB, SQL
+
+### 📄 Certifications
+CompTIA Security+, AWS Certified Cloud Practitioner
 
 </details>
